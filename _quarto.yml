@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Military Assessment Fundamentals"
+  author: "Cardy Moten III"
+  date: "8/3/2025"
+  chapters:
+    - index.qmd
+    - 01-campaign-assessment-overview.qmd
+    - 02-logic-models.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

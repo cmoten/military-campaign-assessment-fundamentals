@@ -1,0 +1,51 @@
+# Military Assessment Overview
+
+Both *Joint Publication 5-0* and *Joint Publication 3-0* provide foundational definitions for military assessment:
+
+> **Assessment** is the determination of progress toward accomplishing a task, creating a condition, or achieving an objective. It is a continuous process that measures the overall effectiveness of employing capabilities during military operations [@jp5-0].
+
+> **Assessment** is a continuous and actionable process that measures the overall effectiveness of the joint force. It involves monitoring and evaluating the current situation and progress toward the objectives. The results help determine whether an activity contributes to the desired effects or advances the objective. Assessment occurs on two distinct planes: First, the Joint Force Commander (JFC) evaluates whether the operational approach remains valid. If it is no longer valid, there is no need to assess supporting activities. Only once the approach is confirmed should supporting activities be evaluated [@jp3-0].
+
+From these definitions, several key points emerge:
+
+- Assessment is a **continuous process** that evaluates current actions and infers their contribution to future goals.
+- Assessment involves evaluating the **utilization of resources** (forces, time, funding).
+- Assessment focuses on measuring the **overall effectiveness** of joint force actions toward achieving desired conditions or objectives.
+
+Interestingly, neither publication offers a formal definition for *measurement*. To fill this conceptual gap, we apply Hubbard’s definition from the field of decision science:
+
+> **Measurement** is a *quantitatively expressed reduction in uncertainty based on one or more observations* [@hubbard2014measure].
+
+This framing aligns closely with the role assessment plays in military planning: reducing uncertainty to inform decisions about adapting or sustaining current operations.
+
+## Assessment as a Prerequisite to Adaptation
+
+Combatant Command Campaign Plans (CCPs) and country plans are dynamic, continuously evolving through cycles of implementation, evaluation, and revision. Because plans rarely unfold as anticipated, Combatant Command (CCMD) planners must extend their planning horizon annually to maintain a forward-looking posture. This requires balancing simultaneous demands: executing current operations while planning for future contingencies.
+
+In this environment, **assessment becomes a prerequisite to effective adaptation**. But assessment is not just about measuring performance or progress—it is fundamentally about **measuring and reducing uncertainty**. In military operations, uncertainty arises from the complexity of the operational environment, the unpredictability of adversaries, and the limitations of available information. By systematically observing and evaluating how operations affect outcomes, assessment helps commanders determine whether current approaches are likely to succeed—or whether they must be adjusted or abandoned.
+
+Following Hubbard’s definition, **measurement is a quantitatively expressed reduction in uncertainty based on one or more observations** [@hubbard2014measure]. This perspective is particularly relevant for campaign assessment: the goal is not only to track implementation but to reduce ambiguity about what works, what doesn’t, and why. Assessments that fail to address uncertainty risk reinforcing flawed assumptions or overlooking emerging risks and opportunities.
+
+External events often exacerbate uncertainty. These events—such as shifts in geopolitical dynamics, changes in national leadership, or emergent threats—fall outside the CCMD’s direct control but can significantly impact both plan execution and future planning. They typically fall into two broad categories:
+
+1. **Changes in the operational environment (OE)**, often requiring intelligence reassessment and situational reevaluation.
+2. **Changes in the resource picture**, including funding levels, available forces, and time constraints.
+
+Changes in strategic guidance can affect both domains. Importantly, these two categories may influence the campaign independently, and assessments must be structured to address them separately.
+
+To navigate these uncertainties, the Combatant Commander (CCDR) and staff must continuously observe the OE and assess the effectiveness of current operations. Since campaigns unfold in **complex and adaptive systems**, detecting early signals of change is crucial. Local actors—those closest to the tactical environment—are often best positioned to detect subtle shifts in sentiment, behavior, or risk, and their insights are essential to high-quality assessment.
+
+Beyond internal efforts, assessments also benefit from strategic analysis conducted by interagency partners such as the Office of the Secretary of Defense (OSD) and the Joint Staff (JS). These partners contribute broader contextual understanding and enhance the command’s ability to respond to uncertainty.
+
+The **primary purpose of assessment** is to reduce uncertainty in ways that lead to more effective decisions. This means answering questions such as:
+
+- Are current objectives still valid and achievable in light of new developments?
+- Is the operational approach still appropriate, or has it been invalidated by new data?
+- Have changes in the OE introduced new risks or created new opportunities?
+- Are the resources being applied having the desired impact?
+
+Assessment is the mechanism through which answers to these questions are developed—not through speculation, but through deliberate observation, evaluation, and synthesis. This allows commanders to make **evidence-informed adjustments** to policy, planning, resource allocation, and authorities.
+
+Ultimately, campaign assessment enables the CCDR to make strategic recommendations to the Secretary of Defense (SecDef) and broader Department of Defense (DoD) leadership. These insights guide both internal planning cycles and higher-level decisions about force structure, budgeting, and legislative requests through the **Future Years Defense Program (FYDP)**.
+
+In sum, **reducing uncertainty—not merely reporting metrics—is the essence of assessment**. It is what allows planners to move from reactive problem-solving to proactive strategic adaptation.
