@@ -52,7 +52,7 @@ The following 13 propositions, summarized from contemporary scholarship [@hickey
 
 These propositions highlight that uncertainty is not a problem to be eliminated, but a reality to be engaged thoughtfully. Assessment is not merely technical—it is cognitive, adaptive, and continuous. It helps leaders make decisions in complex and unpredictable environments, not by providing perfect knowledge, but by systematically reducing what is unknown.
 
-Ultimately, campaign assessment enables the CCDR to make strategic recommendations to the Secretary of Defense (SecDef) and broader Department of Defense (DoD) leadership. These insights guide both internal planning cycles and higher-level decisions about force structure, budgeting, and legislative requests through the **Future Years Defense Program (FYDP)**.
+Ultimately, campaign assessment enables the Combatant Commander (CCDR) to make strategic recommendations to the Secretary of Defense (SecDef) and broader Department of Defense (DoD) leadership. These insights guide both internal planning cycles and higher-level decisions about force structure, budgeting, and legislative requests through the **Future Years Defense Program (FYDP)**.
 
 ## Understanding Analytic Uncertainty
 
@@ -142,27 +142,45 @@ The operational environment consists of many interconnected parts whose relation
 
 By understanding this component, assessment analysts will begin to understand the difficulty in tracing cause and effect, and that emergent events are common even when they are not planned for [@alsa2020, pp. 16,21].
 
-@fig-complexity deptics an important tool to mitigate for the previously discussed risks and that is systems thinking models. We will discuss these models more later in the course.
+@fig-complexity depicts an important tool to mitigate for the previously discussed risks and that is systems thinking models. We will discuss these models more later in the course.
 
 ![Complexity](images/complexity.png){#fig-complexity}
 
 ##### Non-Linearity
 
+Inputs and outputs are not proportional — small actions can have large effects or vice versa. The system behaves in non-predictable or chaotic ways at times.
+
+While it does not completely encapsulate this component, @fig-nonLinear depicts a non-linear process. Other examples of this are:
+
+-   A minor political assassination triggers a large-scale war.
+
+-   Large troop increases fail to shift insurgent activity.
+
+This means that forecasting future events is highly error-prone and success or failure may hinge on tipping points or threshold effects. To mitigate these risks, an assessment analyst needs to utilize methods and tools that lend themselves to range estimates and sensitivity analysis.
+
 ![Non-Linearity](images/non-linearity.png){#fig-nonLinear}
 
 ##### Adaptation
 
-![Adaptation](images/adaptation.png){#fig-adaptation}
+Actors within the system — including adversaries, allies, civilians, and even the organization itself — observe, learn, and change behavior in response to actions.
+
+For instance:
+
+-   An adversary adjusts tactics after observing drone strikes.
+
+-   Local populations change cooperation patterns based on perceived legitimacy.
+
+This basically means the environment is dynamic and responsive, and the old adage of plans not making it past first contact still holds. A key mitigation for this concept is systems thinking models along with developing an agile assessment framework.
 
 ### Implication for Planning
 
-By understanding the concept of surface uncertainty, assessment analysts can better define these components of uncertainty and ultimately measure it in a meaningful way. Analyst can also qualify risks and opportunities.
+By understanding the concept of surface uncertainty, assessment analysts can better define these components of uncertainty and ultimately measure it in a meaningful way. Analysts can also qualify risks and opportunities.
 
 Similarly, understanding deep uncertainty at a conceptual level, provides us means to better deal with it. According to @croft2018uncertainty:
 
 > The **remedy** that analysts must employ in the face of complexity, nonlinearity and adaptation is **theory**. Theories, by their nature, are uncertain, and planners in early-stage operational design work must again avoid the assumption trap…By engaging with deep uncertainty, planners take on the challenge of **building multiple worldviews** as **possible explanations** of system behavior and change during conflict.
 
-This means that instead of relying on the process of creating and validating assumptions, assessment analysts can now leverage additional analytical tools that make the engineering of assessment frameworks based on the previous thirteen principles possible.
+This means that instead of relying on the process of creating and validating assumptions, assessment analysts can now leverage additional analytic tools that make the engineering of assessment frameworks based on the previous thirteen principles possible.
 
 ## From Uncertainty to Theory
 

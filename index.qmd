@@ -1,9 +1,17 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+Military operations today unfold in environments of growing complexity, strategic ambiguity, and rapid change. In this context, commanders and their staffs must not only execute plans, but continuously assess whether those plans are achieving the intended effects—and whether the effects themselves are relevant to evolving objectives. 
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Yet despite the centrality of assessment to military effectiveness, the practice remains uneven, often constrained by narrow definitions, limited analytic tools, and unclear linkages between operational activities and strategic ends. Traditional methods of measurement—focused largely on performance metrics—often fail to capture the deeper questions that assessment must answer: Are we doing the right things? Are we achieving the right effects? And how can we know?
 
-```{r}
-1 + 1
-```
+This book, *Military Campaign Assessment Fundamentals*, provides some inghight to these questions. It is designed to support both military planners and analysts in building better frameworks for evaluating campaigns, operations, and strategic efforts. Grounded in joint doctrine, but informed by recent advances in decision science, systems thinking, and strategic design, this book offers a contemporary view of assessment that treats it as a core function of command—not a post hoc report.
+
+Throughout the chapters, you will encounter concepts such as analytic uncertainty, causal logic, and deep vs. surface uncertainty. These are not merely academic abstractions. They reflect the real-world conditions under which military decisions must be made and adapted. You will also see how assessment connects to planning, design, and adaptation, enabling a more agile and informed approach to strategic execution.
+
+This book is not a manual. It is a way to think about assessment that transcends templates and checklists. Whether you are a planner, a commander, or an analyst, the goal is to equip you with the principles, language, and mindset necessary to assess what matters most.
+
+I hope this work contributes to a broader conversation about military assessment and helps advance both the practice and profession of command.
+
+*LTC Cardy Moten III*  
+Stuttgart, Germany  
+August 2025
