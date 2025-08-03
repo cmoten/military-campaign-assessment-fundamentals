@@ -16,7 +16,7 @@ From these definitions, several key points emerge:
 
 ## Motivating Problem
 
-How to gain a better understanding of the analytic uncertainty inherent with military strategies, plans, and operations so that the commander and staff have a better understanding of the effectiveness with their operation or campaign [@croft2018uncertainty].
+How to gain a better understanding of the analytic uncertainty inherent with military strategies, plans, and operations so that the commander and staff have a better understanding of the effectiveness of their operation or campaign [@croft2018uncertainty].
 
 ## What We will learn
 
@@ -32,23 +32,23 @@ Combatant Command Campaign Plans (CCPs) and country plans are dynamic, continuou
 
 In this environment, assessment becomes a prerequisite to effective adaptation. But assessment is not just about measuring performance or progress—it is fundamentally about measuring and reducing uncertainty. In military operations, uncertainty arises from the complexity of the operational environment, the unpredictability of adversaries, and the limitations of available information. By systematically observing and evaluating how operations affect outcomes, assessment helps commanders determine whether current approaches are likely to succeed—or whether they must be adjusted or abandoned.
 
-Following Hubbard’s definition, measurement is a quantitatively expressed reduction in uncertainty based on one or more observations [@hubbard2014measure]. This perspective is particularly relevant for campaign assessment: the goal is not only to track implementation but to reduce ambiguity about what works, what doesn’t, and why.
+Following Hubbard’s definition, measurement is "a quantitatively expressed reduction in uncertainty based on one or more observations" [@hubbard2014measure]. This perspective is particularly relevant for campaign assessment: the goal is not only to track implementation but to reduce ambiguity about what works, what doesn’t, and why.
 
 The following 13 propositions, summarized from contemporary scholarship [@hickey2019design], offer a theoretical framework for integrating uncertainty into military design and assessment:
 
-1.  Environment as Obstacle Course – Military environments are composed of dynamic systems that commanders must navigate.
-2.  Environment as Landscape to Change – Commanders are tasked not only with navigating but also with reshaping the environment.
-3.  Interventions as Causal Hypotheses – Every military action implies a theory of cause and effect.
-4.  Need for Causal Literacy – Military professionals must be trained to craft and evaluate causal claims.
-5.  Typology of Causal Logics – Reductive causation (structural, institutional, ideational, psychological) underpins military reasoning.
-6.  Mastering Causal Frameworks – Commanders must understand causal logics to assess and adapt effectively.
-7.  Complexity Limits Certainty – The world’s complexity reduces the reliability of single-cause explanations.
-8.  Assessment as Experimentation – Interventions should be approached as hypotheses tested through assessment.
-9.  Focus on Political Ends – Military efforts must align with and support broader political objectives.
-10. Reevaluate Measures of Effectiveness (MoEs) and Measures of Performance (MoPs) – Traditional measures of effectiveness and performance are insufficient for complex goals.
-11. Assessment is Difficult but Essential – Despite challenges, continuous assessment is indispensable.
-12. Integration of Planning and Assessment – Planners and assessors should work collaboratively throughout the planning cycle.
-13. ‘For the Sake Of’ vs. ‘In Order To’ Objectives – Objectives should prioritize purpose and direction over narrowly defined end-states.
+1.  **Environment as Obstacle Course** – Military environments are composed of dynamic systems that commanders must navigate.
+2.  **Environment as Landscape to Change** – Commanders are tasked not only with navigating but also with reshaping the environment.
+3.  **Interventions as Causal Hypotheses** – Every military action implies a theory of cause and effect.
+4.  **Need for Causal Literacy** – Military professionals must be trained to craft and evaluate causal claims.
+5.  **Typology of Causal Logics** – Reductive causation (structural, institutional, ideational, psychological) underpins military reasoning.
+6.  **Mastering Causal Frameworks** – Commanders must understand causal logics to assess and adapt effectively.
+7.  **Complexity Limits Certainty** – The world’s complexity reduces the reliability of single-cause explanations.
+8.  **Assessment as Experimentation** – Interventions should be approached as hypotheses tested through assessment.
+9.  **Focus on Political Ends** – Military efforts must align with and support broader political objectives.
+10. **Reevaluate Measures of Effectiveness (MoEs) and Measures of Performance (MoPs)** – Traditional measures of effectiveness and performance are insufficient for complex goals.
+11. **Assessment is Difficult but Essential** – Despite challenges, continuous assessment is indispensable.
+12. **Integration of Planning and Assessment** – Planners and assessors should work collaboratively throughout the planning cycle.
+13. **‘For the Sake Of’ vs. ‘In Order To’ Objectives** – Objectives should prioritize purpose and direction over narrowly defined end-states.
 
 These propositions highlight that uncertainty is not a problem to be eliminated, but a reality to be engaged thoughtfully. Assessment is not merely technical—it is cognitive, adaptive, and continuous. It helps leaders make decisions in complex and unpredictable environments, not by providing perfect knowledge, but by systematically reducing what is unknown.
 
@@ -56,7 +56,7 @@ Ultimately, campaign assessment enables the Combatant Commander (CCDR) to make s
 
 ## Understanding Analytic Uncertainty
 
-According to @croft2018uncertainty, analytic uncertainty is "a type of uncertainty that consists of five components of deep and surface uncertainty that is useful for planning and military assessments." @tbl-analyticUncertainty lists those five elements which we will discuss in detail in the following section.
+According to @croft2018uncertainty, analytic uncertainty is "a type of uncertainty that consists of five components of deep and surface uncertainty that is useful for planning and military assessments." @tbl-analyticUncertainty lists those five elements, which we will discuss in detail in the following section.
 
 | Deep Uncertainty (unknowables) | Surface Uncertainty (unknowns) |
 |--------------------------------|--------------------------------|
@@ -72,13 +72,13 @@ According to @croft2018uncertainty, analytic uncertainty is "a type of uncertain
 
 Surface uncertainty refers to uncertainty that is visible and acknowledged, but not deeply understood. It often arises from ambiguities or contradictions in observable data or misalignment between facts and interpretation. Surface uncertainty is the “tip of the iceberg” — it’s apparent, but may conceal deeper issues beneath.
 
-Some key characteristics of surface uncertainty are it is:
+Some key characteristics of surface uncertainty are:
 
 -   Often linked to conflicting or unclear indicators.
 
 -   Might be recognized by decision-makers but not resolved.
 
--   Can result from overreliance on dashboards, over-simplified metrics, or data with unclear context.
+-   Can result from over-reliance on dashboards, over-simplified metrics, or data with unclear context.
 
 If not properly mitigated, surface uncertainty can lead to:
 
@@ -92,7 +92,7 @@ As a mitigation measure, we will then learn more about the components of surface
 
 ##### Factual Uncertainty
 
-Factual uncertainty arises when information is incomplete, inaccurate, outdated, or ambiguous. It’s about not having the right facts to begin with, and it reflects gaps in what we know or what we’re aware of. Some examples of this type of uncertainty are:
+Factual uncertainty arises when information is incomplete, inaccurate, outdated, or ambiguous. It’s about not having the correct facts to begin with, and it reflects gaps in what we know or what we’re aware of. Some examples of this type of uncertainty are:
 
 -   Missing intelligence about an adversary’s troop movement.
 
@@ -106,7 +106,7 @@ Based on @fig-factual, this form of uncertainty corresponds to known unknowns (t
 
 ##### Precision Uncertainty
 
-Precision uncertainty refers to situations where we have quantitative information, but the information is imprecise or subject to variation. This often emerges when using probabilistic models or estimates that inherently involve a degree of variability or error.
+Precision uncertainty refers to situations where we have quantitative information, but the information is imprecise or subject to variation. This type of uncertainty often emerges when using probabilistic models or estimates that inherently involve a degree of variability or error.
 
 Some examples of this type of uncertainty are:
 
@@ -116,7 +116,7 @@ Some examples of this type of uncertainty are:
 
 -   Planning based on weather predictions with large error margins.
 
-In practice, analysts in the above situations can use some of the models depicted in @fig-precision, but these models generally are not utilized in assessment frameworks. A way to mitigate these risks in assessment frameworks would be to use techniques like Bayesian models and Monte Carlo simulation.
+In practice, analysts in the above situations can use some of the models depicted in @fig-precision, but these models generally are not utilized in assessment frameworks. A way to mitigate these risks in assessment frameworks would be to use techniques like Bayesian models and Monte Carlo simulations.
 
 ![Precision Uncertainty](images/precision-uncertainty.png){#fig-precision}
 
@@ -142,13 +142,13 @@ The operational environment consists of many interconnected parts whose relation
 
 By understanding this component, assessment analysts will begin to understand the difficulty in tracing cause and effect, and that emergent events are common even when they are not planned for [@alsa2020, pp. 16,21].
 
-@fig-complexity depicts an important tool to mitigate for the previously discussed risks and that is systems thinking models. We will discuss these models more later in the course.
+@fig-complexity depicts a vital tool to mitigate the previously discussed risks, and that is systems thinking models. We will discuss these models more later in the course.
 
 ![Complexity](images/complexity.png){#fig-complexity}
 
 ##### Non-Linearity
 
-Inputs and outputs are not proportional — small actions can have large effects or vice versa. The system behaves in non-predictable or chaotic ways at times.
+Inputs and outputs are not proportional — small actions can have significant effects or vice versa. The system exhibits unpredictable or chaotic behavior at times.
 
 While it does not completely encapsulate this component, @fig-nonLinear depicts a non-linear process. Other examples of this are:
 
@@ -156,7 +156,7 @@ While it does not completely encapsulate this component, @fig-nonLinear depicts 
 
 -   Large troop increases fail to shift insurgent activity.
 
-This means that forecasting future events is highly error-prone and success or failure may hinge on tipping points or threshold effects. To mitigate these risks, an assessment analyst needs to utilize methods and tools that lend themselves to range estimates and sensitivity analysis.
+A key aspect of nonlinearity is that forecasting future events is highly error-prone, and success or failure may hinge on tipping points or threshold effects. To mitigate these risks, an assessment analyst needs to utilize methods and tools that lend themselves to range estimates and sensitivity analysis.
 
 ![Non-Linearity](images/non-linearity.png){#fig-nonLinear}
 
@@ -170,17 +170,17 @@ For instance:
 
 -   Local populations change cooperation patterns based on perceived legitimacy.
 
-This basically means the environment is dynamic and responsive, and the old adage of plans not making it past first contact still holds. A key mitigation for this concept is systems thinking models along with developing an agile assessment framework.
+Furthermore, the environment is dynamic and responsive, and the adage of plans not making it past first contact still holds. A key mitigation for this concept involves systems thinking models and the development of an agile assessment framework.
 
-### Implication for Planning
+### Implications for Planning
 
-By understanding the concept of surface uncertainty, assessment analysts can better define these components of uncertainty and ultimately measure it in a meaningful way. Analysts can also qualify risks and opportunities.
+By understanding the concept of surface uncertainty, assessment analysts can better define these components of uncertainty and ultimately measure them in a meaningful way. Analysts can also qualify risks and opportunities.
 
-Similarly, understanding deep uncertainty at a conceptual level, provides us means to better deal with it. According to @croft2018uncertainty:
+Similarly, understanding deep uncertainty at a conceptual level provides us with the means to better deal with it. According to @croft2018uncertainty:
 
-> The **remedy** that analysts must employ in the face of complexity, nonlinearity and adaptation is **theory**. Theories, by their nature, are uncertain, and planners in early-stage operational design work must again avoid the assumption trap…By engaging with deep uncertainty, planners take on the challenge of **building multiple worldviews** as **possible explanations** of system behavior and change during conflict.
+> The **remedy** that analysts must employ in the face of complexity, nonlinearity, and adaptation is **theory**. Theories, by their nature, are uncertain, and planners in early-stage operational design work must again avoid the assumption trap. By engaging with deep uncertainty, planners take on the challenge of **building multiple worldviews** as **possible explanations** of system behavior and change during conflict.
 
-This means that instead of relying on the process of creating and validating assumptions, assessment analysts can now leverage additional analytic tools that make the engineering of assessment frameworks based on the previous thirteen principles possible.
+Ultimately, instead of relying on the process of creating and validating assumptions, assessment analysts can now leverage additional analytic tools that make the engineering of assessment frameworks based on the previous thirteen principles possible.
 
 ## From Uncertainty to Theory
 
@@ -192,12 +192,67 @@ Given the previous explanations, we can now establish additional terms of refere
 
 **Risk**: A state of uncertainty where some of the possibilities involve a loss, catastrophe, or other undesired outcome.
 
-**Opportunity**: A state of uncertainty where some of the possibilities involve a favorable advance in effect, time to achievement, or other desired outcome if facilitated by decision, engagement, or resources.
+**Opportunity**: A state of uncertainty where some of the possibilities involve a favorable advance in effect, time to achievement, or other desired outcomes if facilitated by decision, engagement, or resources.
 
 **Measurement**: A quantitatively expressed reduction in uncertainty based on one or more observations.
 
 ## Types of Assessments and Who Performs Them
 
+As shown in @fig-assessmentInteraction, military assessments align with the levels of war, with the labels of strategic, operational, and tactical. Per joint doctrine, "assessment should link with adjacent levels, both to provide a conduit for guidance and information" [@jp3-0].
+
+![Assessment Interaction](images/assessment-interaction.png){#fig-assessmentInteraction fig-align="center" width="400"}
+
+While @fig-assessmentInteraction provides a way to visualize these interactions, we need some additional detail to delineate the types of assessments conducted at any one of the levels of warfare. \@tbl-militaryAssessmentTypes displays four general kinds of assessments according to @paul2018inform_influence.
+
+| Assessment Type | Description |
+|--------------------------|----------------------------------------------|
+| Staff Estimates | Does not require an objective. Provides situational awareness about a context, environment, or audience. Different types of estimates are possible; always include qualifying terms. |
+| Performance Assessments | Performance assessments capture the extent of implementation or execution of a program, operation, activity, or investment (OAI). These assessments are descriptive and generated by the entity that is responsible for executing the program or OAI, and inform a progress assessment. |
+| Effectiveness Assessments | Effectiveness assessments measure the contribution of a program or OAI towards meeting an objective. These assessments are diagnostic and generated by the staff directorates that are responsible for planning and monitoring the programs and OAIs over time. This assessment also informs a progress assessment. |
+| Progress Assessments | Progress assessments measure toward one or more objectives. Progress assessments may include multiple programs or OAIs, provided they all contribute to achieving the objective(s). These assessments are diagnostic and validated by a cross-functional process. |
+
+: Types of Military Assessments {#tbl-militaryAssessmentTypes}
+
 ## Linking Assessments Together
 
+@fig-infoFlow illustrates the interconnection of various assessments in a notional information flow diagram for a strategic command, such as a geographic combatant command. Here, service components provide performance assessments of OAIs, the command staff conducts effectiveness assessments of the command's campaign, and a cross-functional team performs a progress assessment of the command's objectives.
+
+Underneath these general forms are numerous other assessments that are specific to certain joint functions or other matters, but these descriptions are suitable to describe the general assessment structure at the varying levels of warfare.
+
+![Assessment Information Flow](images/assessment-information-flow.png){#fig-infoFlow}
+
 ## Practical Example
+
+To enhance your understanding of the previously discussed concepts, we will run through a scenario based on something most Americans are familiar with: football. Below are the key stakeholders and examples of their perspectives about football operations.
+
+### National Football League (NFL)
+
+Our Mission
+
+We are all stewards of football. We unite people and inspire communities in the joy of the game by delivering the world's most exciting sports and entertainment experience.
+
+Our Responsibility Every member of the NFL community embraces our unique leadership role in society, and assumes the trust, character, and responsibility that comes with that role. We bring fans and communities from all walks of life together to celebrate a game that is constantly evolving, balancing the authenticity of tradition with the power of innovation [@nfl].
+
+![NFL Logo](images/nfl-logo.png){fig-align="center" width="400"}
+
+### NFL Team
+
+OUR TEAM
+
+Under the leadership of Sheila Hamp, the great granddaughter of Henry Ford, the Lions have ushered in an era of rebirth focused on creating an inclusive and equitable experience for employees, partners and fans. Building off the rich and diverse history of the city, the Lions embrace transparency and value contribution from all areas of the organization. We believe in the power of a pride, and acknowledge winning together takes understanding, acceptance, and teamwork. We believe in our "we" culture and are committed to building a new tradition that Detroit and Michigan can be proud of [@detroitlionscareers].
+
+![Detroit Lions](images/lions-logo.jpg){fig-align="center" width="400"}
+
+### Coaches and Players
+
+> “The only place that “success” comes before “work” is in the dictionary.” —Vince Lombardi
+
+> “You can learn a line from a win and a book from a defeat.” —Paul Brown
+
+> “When you win, nothing hurts.” —Joe Namath
+
+> “Set your goals high, and don’t stop til you get there” – —Bo Jackson
+
+> “To me, football is so much about mental toughness, it’s digging deep, it’s doing whatever you need to do to help a team win and that comes in a lot of shapes and forms.” —Tom Brady
+
+![Football Play](images/football-play.png){fig-align="center" width="400"}
