@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-Military operations today unfold in environments of growing complexity, strategic ambiguity, and rapid change. In this context, commanders and their staffs must not only execute plans, but continuously assess whether those plans are achieving the intended effects—and whether the effects themselves are relevant to evolving objectives. 
+Military operations today unfold in environments of growing complexity, strategic ambiguity, and rapid change. In this context, commanders and their staffs must not only execute plans, but continuously assess whether those plans are achieving the intended effects—and whether the effects themselves are relevant to evolving objectives.
 
 Yet despite the centrality of assessment to military effectiveness, the practice remains uneven, often constrained by narrow definitions, limited analytic tools, and unclear linkages between operational activities and strategic ends. Traditional methods of measurement—focused largely on performance metrics—often fail to capture the deeper questions that assessment must answer: Are we doing the right things? Are we achieving the right effects? And how can we know?
 
@@ -12,6 +12,6 @@ This book is not a manual. It is a way to think about assessment that transcends
 
 I hope this work contributes to a broader conversation about military assessment and helps advance both the practice and profession of command.
 
-*LTC Cardy Moten III*  
-Stuttgart, Germany  
+*LTC Cardy Moten III*\
+Stuttgart, Germany\
 August 2025

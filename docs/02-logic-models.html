@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -135,8 +155,28 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#motivating-problem" id="toc-motivating-problem" class="nav-link active" data-scroll-target="#motivating-problem"><span class="header-section-number">2.1</span> Motivating Problem</a></li>
+  <li><a href="#what-we-will-learn" id="toc-what-we-will-learn" class="nav-link" data-scroll-target="#what-we-will-learn"><span class="header-section-number">2.2</span> What We Will Learn</a></li>
+  <li><a href="#logic-model-components" id="toc-logic-model-components" class="nav-link" data-scroll-target="#logic-model-components"><span class="header-section-number">2.3</span> Logic Model Components</a>
+  <ul class="collapse">
+  <li><a href="#inputs-resources" id="toc-inputs-resources" class="nav-link" data-scroll-target="#inputs-resources"><span class="header-section-number">2.3.1</span> Inputs (Resources)</a></li>
+  <li><a href="#activities" id="toc-activities" class="nav-link" data-scroll-target="#activities"><span class="header-section-number">2.3.2</span> Activities</a></li>
+  <li><a href="#outputs" id="toc-outputs" class="nav-link" data-scroll-target="#outputs"><span class="header-section-number">2.3.3</span> Outputs</a></li>
+  <li><a href="#outcomes" id="toc-outcomes" class="nav-link" data-scroll-target="#outcomes"><span class="header-section-number">2.3.4</span> Outcomes</a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact"><span class="header-section-number">2.3.5</span> Impact</a></li>
+  </ul></li>
+  <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise"><span class="header-section-number">2.4</span> Practical Exercise</a>
+  <ul class="collapse">
+  <li><a href="#example-logic-models" id="toc-example-logic-models" class="nav-link" data-scroll-target="#example-logic-models"><span class="header-section-number">2.4.1</span> Example Logic Models</a></li>
+  </ul></li>
+  <li><a href="#what-to-read" id="toc-what-to-read" class="nav-link" data-scroll-target="#what-to-read"><span class="header-section-number">2.5</span> What to Read</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -160,9 +200,103 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In summary, this book has no content whatsoever.</p>
+<p>Recall in <a href="01-campaign-assessment-overview.html#sec-implications" class="quarto-xref"><span>Section 1.4.2</span></a>, the author noted that “the remedy that analysts must employ in the face of complexity, nonlinearity, and adaptation is theory.” Croft emphasizes that planners must articulate explicit assumptions and causal pathways to enable adaptive assessment and correction <span class="citation" data-cites="croft2018uncertainty">(<a href="references.html#ref-croft2018uncertainty" role="doc-biblioref">2018</a>)</span>.</p>
+<p>Similarly, the Multi-Service Tactics, Techniques, and Procedures (MTTP) for Operation Assessment manual discusses the concept of theory of change and its critical role in assessment. The manual notes that assessment frameworks should be grounded in clearly stated theories of causation—explaining why and how inputs are expected to achieve desired end-states—and that these theories directly inform assessment techniques, indicators, and interpretation <span class="citation" data-cites="alsa2020">(<a href="references.html#ref-alsa2020" role="doc-biblioref">Air Land Sea Space Application Center 2020</a>, see Chapter II)</span>.</p>
+<p>A review of broader literature highlights a foundational guide developed by the W.K. Kellogg Foundation, which introduced the concept of logic models. In the context of operational design, a logic model functions as a theory of change, explicitly depicting the hypothesized causal pathways and assumptions that underpin a campaign, operation, or program.</p>
+<p>According to the W.K. Kellogg Foundation:</p>
+<blockquote class="blockquote">
+<p>The program logic model is defined as a picture of how your organization does its work – the theory and assumptions underlying the program. A program logic model links outcomes (both short- and long-term) with program activities/processes and the theoretical assumptions/principles of the program <span class="citation" data-cites="kellogg2004logicmodel">(<a href="references.html#ref-kellogg2004logicmodel" role="doc-biblioref">2004</a>)</span>.</p>
+</blockquote>
+<section id="motivating-problem" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="motivating-problem"><span class="header-section-number">2.1</span> Motivating Problem</h2>
+<p>How to develop and implement the usage of logic models when framing a military assessment.</p>
+</section>
+<section id="what-we-will-learn" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="what-we-will-learn"><span class="header-section-number">2.2</span> What We Will Learn</h2>
+<ul>
+<li><p>Logic Model Components</p></li>
+<li><p>How to Use Logic Models in an Assessment Framework</p></li>
+</ul>
+</section>
+<section id="logic-model-components" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="logic-model-components"><span class="header-section-number">2.3</span> Logic Model Components</h2>
+<p>A logic model visually and systematically represents how a program works. It links program resources, activities, outputs, and outcomes to clearly illustrate the relationships among the program’s elements and its intended results. Planners, implementers, and evaluators commonly use logic models to design, execute, assess, and communicate programs. By doing so, they promote shared understanding among stakeholders and establish accountability and clarity in measuring success.</p>
+<section id="inputs-resources" class="level3" data-number="2.3.1">
+<h3 data-number="2.3.1" class="anchored" data-anchor-id="inputs-resources"><span class="header-section-number">2.3.1</span> Inputs (Resources)</h3>
+<p>Inputs refer to the foundational resources required to launch and sustain a program. These include human resources (such as staff, volunteers, or subject-matter experts), financial resources (budgets, grants, donations), material assets (equipment, facilities, supplies), and intangible assets (community partnerships, organizational reputation, data systems). Inputs are not outputs or results themselves, but they enable the program to function. A clear understanding of inputs is crucial for determining program feasibility and scope. Inputs also serve as a baseline for accountability, ensuring that there is alignment between investments and what the program aims to accomplish. The quality, availability, and appropriateness of these resources will significantly affect the program’s effectiveness and the plausibility of achieving desired outcomes. In short, inputs are the “raw materials” for program implementation.</p>
+</section>
+<section id="activities" class="level3" data-number="2.3.2">
+<h3 data-number="2.3.2" class="anchored" data-anchor-id="activities"><span class="header-section-number">2.3.2</span> Activities</h3>
+<p>Program staff carry out activities as the core processes or interventions using available inputs. These activities consist of the actual operations or services delivered to achieve the program’s objectives—such as conducting workshops, developing curricula, offering technical assistance, providing training, or running outreach campaigns. Designers typically express activities using action verbs to reflect what the program “does,” ensuring they align with the needs of the target population and the intended outcomes. These actions bridge resource use with measurable results (outputs and outcomes). To plan activities effectively, program designers must clearly understand the intervention’s logic—why they expect a particular activity to lead to change. During evaluations, analysts assess the fidelity and quality of activity implementation to determine whether the program or external factors produced the observed results.</p>
+</section>
+<section id="outputs" class="level3" data-number="2.3.3">
+<h3 data-number="2.3.3" class="anchored" data-anchor-id="outputs"><span class="header-section-number">2.3.3</span> Outputs</h3>
+<p>Outputs are the immediate, tangible products or deliverables resulting from a program’s activities. These are typically quantified and expressed in terms such as “number of participants trained,” “classes conducted,” or “manuals distributed.” Outputs do not reflect the impact or effectiveness of a program; instead, they indicate that the completion of activities as intended. Outputs are proxies for performance indicators during implementation to monitor progress and operational efficiency. While outputs alone do not demonstrate success, they are essential for program accountability and process evaluation. They also serve as a necessary precondition for achieving outcomes—no outcomes can occur without outputs, but outputs alone are not sufficient. By distinguishing between outputs and outcomes, program evaluators can avoid the common mistake of confusing effort with effect.</p>
+</section>
+<section id="outcomes" class="level3" data-number="2.3.4">
+<h3 data-number="2.3.4" class="anchored" data-anchor-id="outcomes"><span class="header-section-number">2.3.4</span> Outcomes</h3>
+<p>Outcomes represent the changes or benefits resulting from a program’s outputs. They can be short-term (changes in knowledge, attitudes, or skills), intermediate (changes in behavior, decision-making, or organizational practice), or long-term (changes in social, economic, or environmental conditions). Outcomes provide evidence of program effectiveness and are central to any meaningful evaluation. Unlike outputs, outcomes measure the value and impact of the program, not just completion, but achievement. Well-defined outcomes should be specific, measurable, realistic, and aligned with the program’s overall goals. They also must be attributable, at least in part, to the program’s activities and outputs. Importantly, outcomes are not always linear or guaranteed; they depend on various assumptions and external influences. Measuring outcomes helps organizations understand their value proposition and refine future strategies.</p>
+</section>
+<section id="impact" class="level3" data-number="2.3.5">
+<h3 data-number="2.3.5" class="anchored" data-anchor-id="impact"><span class="header-section-number">2.3.5</span> Impact</h3>
+<p>Programs aim to contribute to broad, long-term, and often societal-level changes known as impacts. These high-level effects include reducing poverty, improving public health, increasing economic stability, and advancing educational attainment. Organizations typically align impacts with their institutional missions or policy goals, recognizing that such changes often emerge years after a program concludes. Unlike more immediate and attributable outcomes, impacts result from a complex interplay of factors, many of which lie beyond the program’s control. Consequently, evaluators rarely attribute impacts directly to a single program; instead, they recognize the program’s contribution to broader change.</p>
+<p>Measuring impact requires a long-term perspective and often involves partnerships with external evaluators, the use of secondary data, or follow-up studies. In logic models, impact serves as the north star, guiding the design and alignment of all prior components: activities, outputs, and outcomes. A strong logic model will show a plausible pathway from what the program does (activities) to what it achieves (outcomes) and ultimately how it contributes to impact. Being transparent about intended impact ensures that programs remain focused on meaningful change, rather than simply delivering services. It also helps communicate value to funders, stakeholders, and the broader public.</p>
+</section>
+</section>
+<section id="practical-exercise" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="practical-exercise"><span class="header-section-number">2.4</span> Practical Exercise</h2>
+<p>Using the Detroit Lions football framework introduced in Chapter 1, create a basic logic model that maps stakeholder goals (e.g., community engagement or player development) to inputs, activities, outputs, outcomes, and potential impact.</p>
+<section id="example-logic-models" class="level3" data-number="2.4.1">
+<h3 data-number="2.4.1" class="anchored" data-anchor-id="example-logic-models"><span class="header-section-number">2.4.1</span> Example Logic Models</h3>
+<section id="health-care-provider" class="level4" data-number="2.4.1.1">
+<h4 data-number="2.4.1.1" class="anchored" data-anchor-id="health-care-provider"><span class="header-section-number">2.4.1.1</span> Health Care Provider</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/health-care-provider.png" class="img-fluid figure-img" width="600"></p>
+<figcaption>Example Logic Model - Health Care Provider</figcaption>
+</figure>
+</div>
+</section>
+<section id="military-unit-training" class="level4" data-number="2.4.1.2">
+<h4 data-number="2.4.1.2" class="anchored" data-anchor-id="military-unit-training"><span class="header-section-number">2.4.1.2</span> Military Unit Training</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/military-unit-training.png" class="img-fluid figure-img" width="600"></p>
+<figcaption>Example Logic Model - Military Unit Training</figcaption>
+</figure>
+</div>
+</section>
+<section id="civil-affairs-objective" class="level4" data-number="2.4.1.3">
+<h4 data-number="2.4.1.3" class="anchored" data-anchor-id="civil-affairs-objective"><span class="header-section-number">2.4.1.3</span> Civil Affairs Objective</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/niger-civil-affairs.png" class="img-fluid figure-img" width="600"></p>
+<figcaption>Example Logic Model - Civil Affairs Objective</figcaption>
+</figure>
+</div>
+</section>
+</section>
+</section>
+<section id="what-to-read" class="level2" data-number="2.5">
+<h2 data-number="2.5" class="anchored" data-anchor-id="what-to-read"><span class="header-section-number">2.5</span> What to Read</h2>
+<ul>
+<li><p><a href="https://www.alssa.mil/mttps/assessment/">ATP 5-0.3, Chapter II</a></p></li>
+<li><p><a href="https://wkkf.issuelab.org/resource/logic-model-development-guide.html">W.K. Kellogg Foundation Logic Model Guide</a></p></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-alsa2020" class="csl-entry" role="listitem">
+Air Land Sea Space Application Center. 2020. <span>“Multi‑service Tactics, Techniques, and Procedures for Operation Assessment.”</span> ATP 5‑0.3 / MCRP 5‑10.1 / NTTP 5‑01.3 / AFTTP 3‑2.87. Carlisle Barracks, PA: U.S. Department of Defense. <a href="https://www.alssa.mil/Portals/9/Documents/mttps/assessment_2020.pdf">https://www.alssa.mil/Portals/9/Documents/mttps/assessment_2020.pdf</a>.
+</div>
+<div id="ref-croft2018uncertainty" class="csl-entry" role="listitem">
+Croft, Robert E. 2018. <span>“Understanding Uncertainty: Incorporating the Unknown into Military Estimates.”</span> U.S. Army War College. <a href="https://apps.dtic.mil/sti/pdfs/AD1069606.pdf">https://apps.dtic.mil/sti/pdfs/AD1069606.pdf</a>.
+</div>
+<div id="ref-kellogg2004logicmodel" class="csl-entry" role="listitem">
+W.K. Kellogg Foundation. 2004. <span>“Logic Model Development Guide.”</span> Battle Creek, MI: W.K. Kellogg Foundation. <a href="https://wkkf.issuelab.org/resource/logic-model-development-guide.html">https://wkkf.issuelab.org/resource/logic-model-development-guide.html</a>.
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
