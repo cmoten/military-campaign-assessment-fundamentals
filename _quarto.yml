@@ -10,6 +10,7 @@ book:
     - index.qmd
     - 01-campaign-assessment-overview.qmd
     - 02-logic-models.qmd
+    - 03-futures-map.qmd
     - references.qmd
 
 bibliography: references.bib
