@@ -116,4 +116,8 @@ Objective: Apply structured logic to generate future scenarios that support adap
 
 -   [ATP 5-0.3, Chapter II](https://www.alssa.mil/mttps/assessment/)
 
--   [Field Anomaly Relaxation: The Art of Usage]()
+-   [Field Anomaly Relaxation: The Art of Usage](https://github.com/cmoten/military-campaign-assessment-fundamentals/blob/main/references/1-s2.0-001632879500032R-main.pdf)
+
+- [Army Design Methodology, Chapter 2](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/atp5_0x1.pdf)
+
+- [Making Information Operations Effects-Based: Begin with the End (-State) in Mind](https://apps.dtic.mil/sti/tr/pdf/ADA472241.pdf)
