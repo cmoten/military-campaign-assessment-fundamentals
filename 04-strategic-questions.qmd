@@ -79,7 +79,7 @@ Also called “option” questions, these assess potential courses of action and
 ## Elements of good and bad strategic questions
 
 | Good Strategic Questions | Bad Strategic Questions | Comments |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Grounded in the competitive context. | Displays little grounding in the context of the problem or issue. | Strategic questions must relate to real-world competition—between states, actors, or systems. They should reflect the dynamics, interests, and intentions of adversaries or partners, rather than abstract or academic curiosity. |
 | Has two or more variables. | Vague regarding key variables. | Effective strategic questions examine relationships between multiple factors (e.g., adversary intentions and regional stability). This encourages analysis of cause and effect, interdependencies, or trade-offs rather than isolated issues. |
 | Stated clearly and unambiguously in question form. | Presupposes the answer, includes the answer, or signals that only certain answers are acceptable. | A good strategic question is direct, specific, and phrased as a question—not a vague statement or assumption. This ensures it can guide focused inquiry, analysis, and discussion. |
@@ -89,6 +89,14 @@ Also called “option” questions, these assess potential courses of action and
 ## Practical Exercise
 
 Draft three strategic questions—one from each category—based on a current or historical conflict. Evaluate them for clarity, strategic relevance, and utility in informing decisions.
+
+### Examples
+
+| Good Quesions | Bad Questions |
+|----|----|
+| How can we improve the protection of our forces against IED attacks? | How do we solve the IED problem? |
+| How does incarceration affect the probability of a first-time offender’s future imprisonment? | Given that prisons are the higher education system of crime, how does incarceration affectthe probability of a first-time offender’s future imprisonment? |
+| How does the type of patrol (foot patrols vs. car patrols) affect the prevalence of violence in similar neighborhoods with otherwise similar military presences? | How does a U.S. military presence in Afghanistan affect violence in the country? |
 
 ## What to Read
 
