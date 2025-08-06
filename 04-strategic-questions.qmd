@@ -1,0 +1,37 @@
+# Strategic Questions
+
+Croft in @sec-implications, states "By engaging with deep uncertainty, planners take on the challenge of building multiple worldviews as **possible explanations** of system behavior and change during conflict" [-@croft2018uncertainty]. In order to provide possible explanations, planners and analysts will need to develop the right questions. For this chapter we will focus on what Hill and Gerras defined as strategic questions [-@HillGerras2020].
+
+## Motivating Problem
+
+How to develop strategic questions that will drive data collection requirements.
+
+## What We Will Learn
+
+-   What strategic questions are an why they are important.
+
+-   Types of strategic questions.
+
+-   Elements of good and bad strategic questions.
+
+## What are Strategic Question and Why are They Important?
+
+
+## Types of Strategic Questions
+
+### Definition Questions
+
+### Causation Questions
+
+### Intervention Questions
+
+## Practical Exercise
+
+## What to Read
+
+-   [ATP 5-0.3, Chapter II](https://www.alssa.mil/mttps/assessment/)
+
+-   [Field Anomaly Relaxation: The Art of Usage](https://github.com/cmoten/military-campaign-assessment-fundamentals/blob/main/references/1-s2.0-001632879500032R-main.pdf)
+
+-   [Asking Strategic Questions: A Primer for National Security Professionals](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2076053/asking-strategic-questions-a-primer-for-national-security-professionals/)
+
