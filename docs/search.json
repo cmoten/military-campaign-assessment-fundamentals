@@ -210,16 +210,6 @@
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Air Land Sea Space Application Center. 2020. “Multi‑service\nTactics, Techniques, and Procedures for Operation Assessment.”\nATP 5‑0.3 / MCRP 5‑10.1 / NTTP 5‑01.3 / AFTTP 3‑2.87. Carlisle Barracks,\nPA: U.S. Department of Defense. https://www.alssa.mil/Portals/9/Documents/mttps/assessment_2020.pdf.\n\n\nCroft, Robert E. 2018. “Understanding Uncertainty: Incorporating\nthe Unknown into Military Estimates.” U.S. Army War College. https://apps.dtic.mil/sti/pdfs/AD1069606.pdf.\n\n\nDetroit Lions. 2025. “One Pride.” https://www.detroitlions.com/about-us/careers.\n\n\nHickey, Christopher J, Robert Bradford, and Celestino Perez. 2019.\n“Design, Assessment, and the Causal Imperative in Complex\nOperations and Campaigns.” The Journal of Defense Modeling\nand Simulation 16 (4): 265–76.\n\n\nHubbard, Douglas W. 2014. How to Measure Anything: Finding the Value\nof Intangibles in Business. John Wiley & Sons.\n\n\nJoint Chiefs of Staff. 2022. Joint Publication 3-0: Joint Campaigns\nand Operations. Washington, D.C.: United States Department of\nDefense. https://jdeis.js.mil/jdeis/new_pubs/jp3_0.pdf.\n\n\n———. 2025. Joint Publication 5-0: Joint Planning. Washington,\nD.C.: United States Department of Defense. https://jdeis.js.mil/jdeis/new_pubs/jp5_0.pdf.\n\n\nNational Football League.\nhttps://operations.nfl.com/inside-football-ops/nfl-operations/nfl-ops-honoring-the-game/.\n“NFL Ops: Honoring the Game.”\n\n\nPaul, Christopher, and Miriam Matthews. 2018. “The Language of\nInform, Influence, and Persuade: Assessment Lexicon and Usage Guide for\nU.S. European Command Efforts.” RR-2655-EUCOM.\nSanta  Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_reports/RR2655.html.\n\n\nRhyne, Russell. 1995. “Field Anomaly Relaxation: The Arts of\nUsage.” Futures 27 (6): 657–74.\n\n\nRhyne, Russell F. 1971. “Projecting Whole–Body Future Patterns–the\nField Anomaly Relaxation (FAR) Method. Memorandum Report.”\n\n\nW.K. Kellogg Foundation. 2004. “Logic Model Development\nGuide.” Battle Creek, MI: W.K. Kellogg Foundation. https://wkkf.issuelab.org/resource/logic-model-development-guide.html.",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
     "objectID": "04-strategic-questions.html",
     "href": "04-strategic-questions.html",
     "title": "4  Strategic Questions",
@@ -244,7 +234,7 @@
     "href": "04-strategic-questions.html#what-are-strategic-question-and-why-are-they-important",
     "title": "4  Strategic Questions",
     "section": "4.3 What are Strategic Question and Why are They Important?",
-    "text": "4.3 What are Strategic Question and Why are They Important?",
+    "text": "4.3 What are Strategic Question and Why are They Important?\nStrategic questions are high-level inquiries that help decision-makers understand complex problems, anticipate change, and choose among competing options in uncertain environments. Hill and Gerras argue that strategic questions are essential for guiding national security strategy, particularly when facing ambiguity, long time horizons, and limited information (2020).\nUnlike tactical or operational questions, strategic questions are deliberately open-ended. They focus on context, causality, options, and risks. Asking them enables planners to clarify assumptions, uncover blind spots, and develop better-informed courses of action. These questions support both critical and creative thinking and help national security professionals move beyond reactive thinking.\nHill and Gerras emphasize that the ability to ask good strategic questions is not innate—it requires practice and reflection. They cite the Cuban Missile Crisis as a case study where President Kennedy and his advisors asked hundreds of strategic questions over 13 tense days—such as “What happens if we do nothing?” and “What are the Soviets trying to achieve?”—which ultimately helped prevent nuclear war.\nIn short, strategic questions help planners navigate competitive uncertainty. They encourage multidimensional thinking, challenge groupthink, and promote adaptability in the face of strategic complexity.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Strategic Questions</span>"
     ]
@@ -254,7 +244,17 @@
     "href": "04-strategic-questions.html#types-of-strategic-questions",
     "title": "4  Strategic Questions",
     "section": "4.4 Types of Strategic Questions",
-    "text": "4.4 Types of Strategic Questions\n\n4.4.1 Definition Questions\n\n\n4.4.2 Causation Questions\n\n\n4.4.3 Intervention Questions",
+    "text": "4.4 Types of Strategic Questions\nHill and Gerras provide three general types of strategic questions: definition, causations, and intervention questions (2020).\n\n4.4.1 Definition Questions\nThese clarify the nature of a problem. Definition questions establish a shared understanding of the environment and help scope the issue. There are three types of definition questions:\nDefine Nature: What is the thing we are analyzing and how is it interacting with the world around it?\n\n“What is the adversary trying to achieve?”\n“How serious is this challenge?”\n“What is Niger’s current policy towards the US?”\n\nDefine Extent: How big is the problem? What is the cost of inaction?\n\n“What is the operational reach of al Shabaab?”\n\nDefine Urgency: How is the problem unfolding in time?\n\n“How has the operational readiness levels of the East Africa Response Force changed in the past three years?”\n\n\n\n4.4.2 Causation Questions\nThese explore why something is happening and what the likely consequences will be.They help identify drivers, mechanisms, and emerging patterns. There are two types:\nExplanation: Why is it happening? What are the causes?\n\n“Why did the previous Nigerian government lack popular support?”\n\nPrediction: What is likely to happen because of this situation or event?\n\n“What kind of senior leaders is the current Somalian military personnel system likely to produce?”\n\n\n\n4.4.3 Intervention Questions\nAlso called “option” questions, these assess potential courses of action and their implications. These questions guide decision-making by linking means, ways, and ends under uncertainty. There are three types:\nEffectiveness: Does it work?\n\n“What is the likely effect of new sanctions on Sudan?”\n\nEfficiency: What is the relationship of benefits to costs?\n\n“What are the readiness improvements resulting from the change in design to African Lion? How do these improvements compare to the costs of this new design?”\n\nRobustness: Is the proposed intervention still sufficiently efficient or effective if we relax key assumptions?\n\n“How effective is our campaign plan if we lose access to bases in Country X?”",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Strategic Questions</span>"
+    ]
+  },
+  {
+    "objectID": "04-strategic-questions.html#elements-of-good-and-bad-strategic-questions",
+    "href": "04-strategic-questions.html#elements-of-good-and-bad-strategic-questions",
+    "title": "4  Strategic Questions",
+    "section": "4.5 Elements of good and bad strategic questions",
+    "text": "4.5 Elements of good and bad strategic questions\n\n\n\n\n\n\n\n\nGood Strategic Questions\nBad Strategic Questions\nComments\n\n\n\n\nGrounded in the competitive context.\nDisplays little grounding in the context of the problem or issue.\nStrategic questions must relate to real-world competition—between states, actors, or systems. They should reflect the dynamics, interests, and intentions of adversaries or partners, rather than abstract or academic curiosity.\n\n\nHas two or more variables.\nVague regarding key variables.\nEffective strategic questions examine relationships between multiple factors (e.g., adversary intentions and regional stability). This encourages analysis of cause and effect, interdependencies, or trade-offs rather than isolated issues.\n\n\nStated clearly and unambiguously in question form.\nPresupposes the answer, includes the answer, or signals that only certain answers are acceptable.\nA good strategic question is direct, specific, and phrased as a question—not a vague statement or assumption. This ensures it can guide focused inquiry, analysis, and discussion.\n\n\nImplies the possibility of an observable answer.\nIncludes causal claims or solutions.\nStrategic questions should be answerable through available or collectible data. While they may not have immediate answers, they should point to evidence-based investigation or indicators.\n\n\nAcknowledges the uncertainty inherent in competition.\nIncludes moral or ethical claims or value statements that complicate quantification.\nRather than seeking certainty, good strategic questions embrace ambiguity and multiple plausible outcomes. They are designed to probe uncertainty, assess risk, and help navigate through complexity.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Strategic Questions</span>"
     ]
@@ -263,8 +263,8 @@
     "objectID": "04-strategic-questions.html#practical-exercise",
     "href": "04-strategic-questions.html#practical-exercise",
     "title": "4  Strategic Questions",
-    "section": "4.5 Practical Exercise",
-    "text": "4.5 Practical Exercise",
+    "section": "4.6 Practical Exercise",
+    "text": "4.6 Practical Exercise\nDraft three strategic questions—one from each category—based on a current or historical conflict. Evaluate them for clarity, strategic relevance, and utility in informing decisions.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Strategic Questions</span>"
     ]
@@ -273,10 +273,20 @@
     "objectID": "04-strategic-questions.html#what-to-read",
     "href": "04-strategic-questions.html#what-to-read",
     "title": "4  Strategic Questions",
-    "section": "4.6 What to Read",
-    "text": "4.6 What to Read\n\nATP 5-0.3, Chapter II\nField Anomaly Relaxation: The Art of Usage\nAsking Strategic Questions: A Primer for National Security Professionals\n\n\n\n\n\nCroft, Robert E. 2018. “Understanding Uncertainty: Incorporating the Unknown into Military Estimates.” U.S. Army War College. https://apps.dtic.mil/sti/pdfs/AD1069606.pdf.\n\n\nHill, Andrew, and Stephen Gerras. 2020. “Asking Strategic Questions: A Primer for National Security Professionals.” Joint Force Quarterly 96 (1): 37–41. https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2076053/asking-strategic-questions-a-primer-for-national-security-professionals/.",
+    "section": "4.7 What to Read",
+    "text": "4.7 What to Read\n\nATP 5-0.3, Chapter II\nAsking Strategic Questions: A Primer for National Security Professionals\n\n\n\n\n\nCroft, Robert E. 2018. “Understanding Uncertainty: Incorporating the Unknown into Military Estimates.” U.S. Army War College. https://apps.dtic.mil/sti/pdfs/AD1069606.pdf.\n\n\nHill, Andrew, and Stephen Gerras. 2020. “Asking Strategic Questions: A Primer for National Security Professionals.” Joint Force Quarterly 96 (1): 37–41. https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2076053/asking-strategic-questions-a-primer-for-national-security-professionals/.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Strategic Questions</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Air Land Sea Space Application Center. 2020. “Multi‑service\nTactics, Techniques, and Procedures for Operation Assessment.”\nATP 5‑0.3 / MCRP 5‑10.1 / NTTP 5‑01.3 / AFTTP 3‑2.87. Carlisle Barracks,\nPA: U.S. Department of Defense. https://www.alssa.mil/Portals/9/Documents/mttps/assessment_2020.pdf.\n\n\nCroft, Robert E. 2018. “Understanding Uncertainty: Incorporating\nthe Unknown into Military Estimates.” U.S. Army War College. https://apps.dtic.mil/sti/pdfs/AD1069606.pdf.\n\n\nDetroit Lions. 2025. “One Pride.” https://www.detroitlions.com/about-us/careers.\n\n\nHickey, Christopher J, Robert Bradford, and Celestino Perez. 2019.\n“Design, Assessment, and the Causal Imperative in Complex\nOperations and Campaigns.” The Journal of Defense Modeling\nand Simulation 16 (4): 265–76.\n\n\nHill, Andrew, and Stephen Gerras. 2020. “Asking Strategic\nQuestions: A Primer for National Security Professionals.”\nJoint Force Quarterly 96 (1): 37–41. https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2076053/asking-strategic-questions-a-primer-for-national-security-professionals/.\n\n\nHubbard, Douglas W. 2014. How to Measure Anything: Finding the Value\nof Intangibles in Business. John Wiley & Sons.\n\n\nJoint Chiefs of Staff. 2022. Joint Publication 3-0: Joint Campaigns\nand Operations. Washington, D.C.: United States Department of\nDefense. https://jdeis.js.mil/jdeis/new_pubs/jp3_0.pdf.\n\n\n———. 2025. Joint Publication 5-0: Joint Planning. Washington,\nD.C.: United States Department of Defense. https://jdeis.js.mil/jdeis/new_pubs/jp5_0.pdf.\n\n\nNational Football League.\nhttps://operations.nfl.com/inside-football-ops/nfl-operations/nfl-ops-honoring-the-game/.\n“NFL Ops: Honoring the Game.”\n\n\nPaul, Christopher, and Miriam Matthews. 2018. “The Language of\nInform, Influence, and Persuade: Assessment Lexicon and Usage Guide for\nU.S. European Command Efforts.” RR-2655-EUCOM.\nSanta  Monica, CA: RAND Corporation. https://www.rand.org/pubs/research_reports/RR2655.html.\n\n\nRhyne, Russell. 1995. “Field Anomaly Relaxation: The Arts of\nUsage.” Futures 27 (6): 657–74.\n\n\nRhyne, Russell F. 1971. “Projecting Whole–Body Future Patterns–the\nField Anomaly Relaxation (FAR) Method. Memorandum Report.”\n\n\nW.K. Kellogg Foundation. 2004. “Logic Model Development\nGuide.” Battle Creek, MI: W.K. Kellogg Foundation. https://wkkf.issuelab.org/resource/logic-model-development-guide.html.",
+    "crumbs": [
+      "References"
     ]
   }
 ]
