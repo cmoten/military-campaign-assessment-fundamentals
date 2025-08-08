@@ -1,10 +1,10 @@
 # Strategic Military Effects
 
-Croft in @sec-implications, states "By engaging with deep uncertainty, planners take on the challenge of building multiple worldviews as **possible explanations** of system behavior and change during conflict" [-@croft2018uncertainty]. In order to provide possible explanations, planners and analysts will need to develop the right questions. For this chapter we will focus on what Hill and Gerras defined as strategic questions [-@HillGerras2020].
+A final theoretical piece of the military assessment puzzle focuses on strategic military effects. This is an important topic of not only debate of what effects are, but also the key difference of how a military effect requires a different mode of thought depending on the level of war.
 
 ## Motivating Problem
 
-How to develop strategic questions that will drive data collection requirements.
+How to think about and analyze strategic military effects.
 
 ## What We Will Learn
 
@@ -57,14 +57,16 @@ Systems thinking offers a holistic approach to understanding and managing comple
 ## Practical Exercise
 
 ### Escalation Risk
-Strategic military effects become clearer when viewed through real-world examples. The Escalation Risk example illustrates how interactions between two actors’ activities, perceived threats, and resulting actions can create feedback loops that either intensify or de-escalate tensions. Strategic understanding here requires assessing not just immediate outcomes but the cumulative effects of reciprocal actions over time. 
+
+Strategic military effects become clearer when viewed through real-world examples. The Escalation Risk example illustrates how interactions between two actors’ activities, perceived threats, and resulting actions can create feedback loops that either intensify or de-escalate tensions. Strategic understanding here requires assessing not just immediate outcomes but the cumulative effects of reciprocal actions over time.
 
 ![Esclation Risk](images/esclation-risk.png){#fig-escalationRisk fig-align="center" width="600"}
 
-### Overflight Agreement 
-The US–Algeria Agreement example shows how cooperative measures—such as document coordination and joint crisis response exercises—can build trust and confidence between nations. While the immediate operational effects may include improved interoperability or procedural alignment, the strategic effects could extend to stronger diplomatic ties and increased regional stability. 
+### Overflight Agreement
 
-![US-Algeria Agreement](images/us-algeria.png){#fig-escalationRisk fig-align="center" width="600"}
+The US–Algeria Agreement example shows how cooperative measures—such as document coordination and joint crisis response exercises—can build trust and confidence between nations. While the immediate operational effects may include improved interoperability or procedural alignment, the strategic effects could extend to stronger diplomatic ties and increased regional stability.
+
+![US-Algeria Agreement](images/us-algeria.png){fig-align="center" width="600"}
 
 These cases demonstrate that strategic effects are rarely the result of single, isolated actions. Instead, they emerge from patterns of interaction, shaped by perceptions, intentions, and broader context. By analyzing such examples, planners can better design actions that achieve desired long-term outcomes while managing risk.
 
