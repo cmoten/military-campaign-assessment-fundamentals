@@ -12,6 +12,7 @@ book:
     - 02-logic-models.qmd
     - 03-futures-map.qmd
     - 04-strategic-questions.qmd
+    - 05-strategic-military-effects.qmd
     - references.qmd
 
 bibliography: references.bib

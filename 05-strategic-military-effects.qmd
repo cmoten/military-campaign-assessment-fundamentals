@@ -1,0 +1,75 @@
+# Strategic Military Effects
+
+Croft in @sec-implications, states "By engaging with deep uncertainty, planners take on the challenge of building multiple worldviews as **possible explanations** of system behavior and change during conflict" [-@croft2018uncertainty]. In order to provide possible explanations, planners and analysts will need to develop the right questions. For this chapter we will focus on what Hill and Gerras defined as strategic questions [-@HillGerras2020].
+
+## Motivating Problem
+
+How to develop strategic questions that will drive data collection requirements.
+
+## What We Will Learn
+
+-   What military effects are.
+
+-   How strategic military effects are different.
+
+-   A comparison of reductionist and systems thinking.
+
+## What are Military Effects?
+
+According to JP 3-0 [-@jp3-0], military effects are defined as:
+
+1.  The physical or behavioral state of a system that results from an action, a set of actions, or another effect.
+
+2.  The result, outcome, or consequence of an action.
+
+3.  A change to a condition, behavior, or degree of freedom.
+
+These effects can be direct, such as the destruction of an enemy capability, or indirect, such as influencing the will of a population. Effects can also be intended or unintended and may vary in scale, duration, and significance. Understanding military effects is critical for linking tactical actions to higher operational or strategic goals. At their core, effects represent a change in condition, behavior, or degree of freedom for an actor or system. This definition encompasses kinetic actions, like strikes, and non-kinetic actions, such as information operations or deterrent posturing. The comprehensive view ensures that planners consider both tangible and intangible results, enabling more effective integration of military activities with diplomatic, informational, and economic instruments of power in joint and combined operations.
+
+## What are Strategic Military Effects Different?
+
+Strategic military effects are the broad, enduring outcomes that connect military actions to national or alliance-level objectives. They often span across domains, geographic regions, and timeframes, involving complex, multi-factor relationships beyond simple linear cause-and-effect. Unlike operational or tactical effects, strategic effects require consideration of political, economic, social, and informational dynamics alongside military factors. For example, a military show of force may have the immediate effect of deterring adversary aggression, but its strategic effect could include strengthening regional alliances or altering global perceptions of resolve. Because these effects operate within a highly interconnected environment, they are influenced by feedback loops, cultural factors, and adaptive adversary behavior. Understanding strategic effects requires analysts to look beyond battlefield outcomes and assess how actions contribute to—or detract from—long-term strategic objectives. This broader perspective ensures that military planning supports national policy and accounts for second- and third-order consequences.
+
+## Reductionist vs. Systems Thinking
+
+### Reductionist Thinking
+
+Reductionist thinking is a mental model that simplifies problems into discrete, linear cause-and-effect relationships. It assumes predictability and determinism, making it well-suited for technical problem-solving and the development of tactical or operational plans where inputs and outcomes can be tightly controlled. In the military context, reductionist approaches are valuable for designing and executing tasks such as logistics scheduling, targeting plans, or force movements. To get a sense of the linear structure, @fig-militaryPlan shows the typical structure of how a military plan is organized. In theory, most planners assume that this structure provides a sound structure to assess a military campaign. In practice, however this is much more difficult.
+
+![End State, Effects, Task List](images/military-planning-structure.png){#fig-militaryPlan fig-align="center" width="600"}
+
+At the strategic level, the reductionist model falls short because it often ignores the complexity of interconnected systems like the one shown in @fig-effectsNetwork. Strategic effects involve numerous interdependent variables—political, cultural, economic, and informational—that interact in unpredictable ways. Applying purely reductionist thinking to such problems risks oversimplification and flawed assumptions.
+
+![Effects Network](images/effects-network.png){#fig-effectsNetwork fig-align="center" width="600"}
+
+Strategic planning therefore benefits from additional tools, such as the factor–conditions matrix [@duczynski2005making] shown in @fig-factorsConditionMatrix, which maps relationships between effects, means, and capabilities, and design/solution space analysis [@duczynski2005making] shown in @fig-effectsMeans, which enables planners to explore multiple pathways and potential outcomes within a complex ecosystem.
+
+![Factors Condition Matrix](images/factors-condition-matrix.png){#fig-factorsConditionMatrix fig-align="center" width="600"}
+
+![Effects and Means Comparison](images/effects-means-comparison.png){#fig-effectsMeans fig-align="center" width="600"}
+
+### Systems Thinking
+
+Systems thinking offers a holistic approach to understanding and managing complexity by focusing on relationships, patterns, and interdependencies rather than isolating parts of a system like the image shown in @fig-systemsModel. In military strategy, it recognizes that actions in one area can trigger cascading effects in others, often in nonlinear and unexpected ways. This approach is especially suited to analyzing strategic military effects, where multiple actors, domains, and variables interact dynamically over time. Systems thinking encourages planners to account for feedback loops, time delays, and adaptive behavior—factors often overlooked in reductionist models. By viewing the operational environment as an interconnected whole, systems thinking enables a deeper appreciation of how military actions interact with political, economic, social, and informational systems. This perspective helps prevent tunnel vision, encourages creative solutions, and improves adaptability. Ultimately, systems thinking supports decision-makers in crafting strategies that are resilient, flexible, and responsive to the evolving realities of complex conflict environments.
+
+![Systems Model](images/systems-model.png){#fig-systemsModel fig-align="center" width="600"}
+
+## Practical Exercise
+
+### Escalation Risk
+Strategic military effects become clearer when viewed through real-world examples. The Escalation Risk example illustrates how interactions between two actors’ activities, perceived threats, and resulting actions can create feedback loops that either intensify or de-escalate tensions. Strategic understanding here requires assessing not just immediate outcomes but the cumulative effects of reciprocal actions over time. 
+
+![Esclation Risk](images/esclation-risk.png){#fig-escalationRisk fig-align="center" width="600"}
+
+### Overflight Agreement 
+The US–Algeria Agreement example shows how cooperative measures—such as document coordination and joint crisis response exercises—can build trust and confidence between nations. While the immediate operational effects may include improved interoperability or procedural alignment, the strategic effects could extend to stronger diplomatic ties and increased regional stability. 
+
+![US-Algeria Agreement](images/us-algeria.png){#fig-escalationRisk fig-align="center" width="600"}
+
+These cases demonstrate that strategic effects are rarely the result of single, isolated actions. Instead, they emerge from patterns of interaction, shaped by perceptions, intentions, and broader context. By analyzing such examples, planners can better design actions that achieve desired long-term outcomes while managing risk.
+
+## What to Read
+
+-   [ATP 5-0.3, Chapter II](https://www.alssa.mil/mttps/assessment/)
+
+-   [Introduction to Systems Thinking](https://thesystemsthinker.com/introduction-to-systems-thinking/)
