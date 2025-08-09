@@ -1,4 +1,4 @@
-# Logic Models
+# Logic Models {#sec-logicModels}
 
 Recall in @sec-implications, the author noted that “the remedy that analysts must employ in the face of complexity, nonlinearity, and adaptation is theory.” Croft emphasizes that planners must articulate explicit assumptions and causal pathways to enable adaptive assessment and correction [-@croft2018uncertainty].
 

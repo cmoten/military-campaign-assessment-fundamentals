@@ -13,6 +13,7 @@ book:
     - 03-futures-map.qmd
     - 04-strategic-questions.qmd
     - 05-strategic-military-effects.qmd
+    - 06-developing-an-assessment-framework.qmd
     - references.qmd
 
 bibliography: references.bib

@@ -1,0 +1,165 @@
+# Putting It All Together
+
+For this chapter, we will tie the theoretical information in the previous chapters with the principles discussed in [ATP 5-0.3](https://www.alssa.mil/Portals/9/Documents/mttps/assessment_2020.pdf). The manual discusses six general questions that all assessment teams are trying to answer and communicate:
+
+1. How has the operational environment (OE) changed?
+
+2. How much discernable progress exists in accomplishing our operational
+objectives?
+
+3. What do we think caused progress and/or lack of progress in achieving our
+objectives?
+
+4. Do the changes in the OE cause a change to operations and/or plans?
+
+5. What are the resource gaps to accomplishing our objectives and what are the
+risks associated with the current resourcing?
+
+6. How does this assessment nest with higher headquarters (HHQ)
+assessments and incorporate lower-level assessments?
+
+An effective operation assessment centers on the commander’s objectives, end state, and information requirements, integrating both quantitative and qualitative indicators. It interprets specific indicators in the broader operational context, informed by professional military judgment and subordinate unit capabilities. Analysis identifies trends, changes in the OE, and their operational impacts, drawing from the expertise of multiple staff sections and stakeholders.
+
+Assessments must be clear, concise, and contextually relevant—explaining why evidence and recommendations matter to achieving the end state. They measure progress against objectives, employ best practices such as standards-based assessments and theories of change, and produce actionable recommendations that make operations more effective.
+
+Key tenets include involving subordinate commanders, integrating assessments across all levels, embedding them into planning and battle rhythms, and incorporating external information sources for a holistic OE picture. Credibility and transparency require documenting methods, limitations, and assumptions. Assessment is continuous, adapting alongside planning and execution.
+
+In general, the information in ATP 5-0.3 is sufficient for the operational and tactical levels. Using the information in the previous chapters will provide you the necessary building blocks for the strategic level, but can also supplement an assessment framework at any level.
+
+## Motivating Problem
+
+How to develop an assessment framework depending on the level of your organization.
+
+## What We Will Learn
+
+-   Assessment Planning
+
+-   Data Collection and Management
+
+-   Data Analysis
+
+-   Communication and Presentation
+
+## Assessment Planning
+
+### Using Logic Models and Futures Mapping to Build a Strategic Assessment Plan
+
+At the strategic level, assessment requires more than tracking discrete metrics—it must link actions to desired national or theater outcomes while accounting for uncertainty and complexity. Two complementary tools—logic models and futures mapping—provide a structured way to design such assessments.
+
+### Logic Models
+
+Logic models, discussed in @sec-logicModels, visualize the cause-and-effect pathway from resources and activities to strategic effects and end states. At their core, they map:
+
+1.  Inputs (resources, authorities, capabilities)
+2.  Activities (operations, engagements, programs)
+3.  Outputs (immediate deliverables)
+4.  Outcomes (short- and intermediate-term changes in conditions or behavior)
+5.  Impacts (long-term strategic effects)
+
+Chapter II of ATP 5-0.3 [-@alsa2020] emphasizes that, for strategic assessment, each link must be tested against assumptions, risks, and external influences. A logic model should clearly connect military activities to political and policy objectives, enabling decision-makers to visualize dependencies and identify where indicators and measures are needed. This helps define assessment questions, select relevant Measures of Performance (MOPs) and Measures of Effectiveness (MOEs), and ensure they support the commander’s decision requirements.
+
+### Futures Mapping
+
+While logic models provide a linear causal framework, futures mapping, explained in @sec-futuresMap, addresses uncertainty by visualizing alternative pathways the future might take. Drawing from systems thinking, it identifies key variables, drivers, and their potential interactions to produce multiple plausible scenarios. The process involves:
+
+-   Identifying strategic objectives and desired end states.
+
+-   Mapping drivers and influencing factors, including adversary actions, regional dynamics, and socio-political trends.
+
+-   Exploring plausible futures by combining variables into different pathways (desired, undesired, neutral).
+
+-   Identifying decision points and branch/sequel conditions that can shift the trajectory toward or away from objectives.
+
+In practice, futures mapping can be integrated into the logic model’s “context” layer, helping planners recognize where non-linear changes or shocks might disrupt the causal chain. It ensures assessment plans do not assume a single deterministic path, but rather track indicators across multiple possible futures.
+
+### Integration for Strategic Assessment
+
+A strategic assessment plan begins by building a logic model that aligns actions to strategic effects, then overlays futures mapping to identify uncertainty and potential divergence points. From this, planners derive: - Key assessment questions linked to decision-making needs. - Indicators and measures for both desired progress and early warning of negative trends. - Data collection requirements aligned with intelligence, partner reporting, and operational reporting.
+
+By combining the structured causality of logic models with the adaptability of futures mapping, strategic assessments can better inform senior leaders, anticipate shifts in the environment, and adapt operations to sustain progress toward strategic objectives.
+
+## Data Collection and Management
+
+### Data Collection and Management for Strategic-Level Assessment and Military Effects
+
+At the strategic level, assessment hinges on the ability to connect data to the broader understanding of strategic military effects—the enduring outcomes that link military actions to national or alliance objectives. These effects often emerge from complex, multi-factor interactions, making the design of the data collection plan a critical enabler for accurate assessment.
+
+### Planning Data Collection with Effects in Mind
+
+According to ATP 5-0.3, Chapter III, data requirements must be derived from the commander’s assessment framework, starting with strategic questions and logic models that explicitly connect activities to desired conditions. For strategic military effects—such as deterrence, alliance cohesion, or adversary capability degradation—planners must identify the key indicators that signal movement toward or away from these end states.
+
+This process requires defining measures of performance (MOPs) to track the execution of tasks, and measures of effectiveness (MOEs) to gauge whether those tasks are producing the intended strategic effects. Data sources may include operational reporting, intelligence estimates, partner nation inputs, and even non-military indicators (e.g., economic or diplomatic trends).
+
+### Data Management for Complex Effects
+
+Strategic military effects are rarely produced by a single action. They emerge from an ecosystem of diplomatic, informational, military, and economic activities. Data management must therefore integrate diverse datasets—across agencies, domains, and classification levels—into a unified structure. This involves: - Metadata tagging to link data points directly to specific effects or conditions. - Validation and verification to ensure accuracy and credibility. - Standardized formats for interoperability and cross-domain analysis.
+
+Effective management allows analysts to identify patterns, causal relationships, and unintended consequences. For example, tracking joint exercises with a partner nation should not only measure participation but also be linked to confidence-building indicators and regional deterrence metrics.
+
+### Turning Data into Insight on Effects
+
+The ultimate purpose of data collection is to inform whether strategic military effects are being achieved. Visualization tools, timelines, and geospatial overlays can help decision-makers see how conditions are shifting relative to desired end states. Importantly, assessment teams should revisit and refine indicators as the operational environment changes, ensuring continued relevance.
+
+### Continuous Feedback Loop
+
+As emphasized in ATP 5-0.3, the collection and management process must be iterative. Assessment findings may reveal that certain effects are not being realized, prompting adjustments in both operations and data priorities. This feedback loop ensures that the assessment remains anchored in the reality of the environment, rather than static assumptions.
+
+In sum, effective strategic-level data collection and management is inseparable from understanding and measuring strategic military effects. By aligning collection plans with effect-based assessment frameworks, leaders can better evaluate progress toward strategic objectives, anticipate risks, and adapt campaigns to achieve enduring, favorable outcomes.
+
+## Data Analysis
+
+Effective data analysis transforms collected and managed information into actionable insights that directly inform strategic decision-making. At the strategic level, this process must not only measure progress but also interpret complex causal relationships to understand why changes are occurring in the operational environment.
+
+### Strategic-Level Considerations
+
+ATP 5-0.3 emphasizes that analysis should focus on answering the commander’s assessment questions, evaluating trends over time, and determining whether progress is being made toward desired end states [-@alsa2020]. At the strategic level, this means interpreting indicators within the broader context of strategic military effects, where causal chains are long, multi-factorial, and often indirect.
+
+While doctrine such as JP 5-0 [-@jp5-0] recommends the use of SMART objectives (Specific, Measurable, Achievable, Relevant, Time-bound) for assessment, this approach has limitations when applied to highly complex strategic objectives. Strategic goals often lack precise measurability, involve dynamic adversary behavior, and may span years or decades. As such, alternative frameworks can be more practical:
+
+-   OKR (Objectives and Key Results) – Focuses on setting ambitious objectives supported by flexible, outcome-oriented key results, which can adapt as the strategic environment changes [@doerr2018measure].
+
+-   WOOP (Wish, Outcome, Obstacle, Plan) – Helps planners articulate desired conditions, anticipate obstacles, and create adaptive action plans, making it useful in contested and uncertain environments [@woop2014].
+
+### Analytical Methods
+
+Given the complexity of strategic effects, social science methodologies can provide additional analytical rigor. One such method is process tracing [@collier2011process], a qualitative approach that examines the sequence of events and evidence linking activities to outcomes. This method is particularly useful for:
+
+-   Testing competing explanations for observed changes.
+
+-   Identifying causal mechanisms underlying strategic effects.
+
+-   Integrating qualitative and quantitative evidence to form a coherent narrative.
+
+Process tracing can be combined with quantitative techniques such as regression, trend analysis, and network analysis to ensure findings are both empirically grounded and contextually rich.
+
+### Integration into the Assessment Cycle
+
+Data analysis at this level should:
+
+1.  Synthesize inputs from diverse sources, ensuring cross-domain consistency. 2. Interpret trends in light of the operational and strategic context.
+2.  Test hypotheses about causal pathways using both doctrinal and social science tools.
+3.  Inform recommendations that adjust operations, resource allocation, and engagement strategies.
+
+By blending doctrinal guidance, adaptive planning frameworks, and rigorous analytical methods, strategic assessment teams can move beyond static measurement to dynamic understanding—enabling better anticipation of changes, more accurate evaluation of strategic effects, and more informed decision-making.
+
+## Communication and Presentation
+
+Chapter IV of ATP 5-0.3 addresses Steps 5 and 6 of the operations assessment process: communicating the assessment and adapting the plan. The central idea is that even the most rigorous assessment is ineffective if it is not clearly conveyed in a way the commander understands and can act upon. The assessment is not the data or its visualization—it is the staff’s synthesized understanding of the operational environment (OE), why it is changing, and what should be done in response.
+
+Communication must align with the commander’s decision-making style, battle rhythm, and information needs. Assessment products may include recommendations, OE condition updates, performance evaluations, and identification of risks or gaps. Effective communication tools range from written narratives (which provide depth and context) to visual aids such as stoplight charts, spider charts, and composite assessment products—each with clear standards to avoid misleading interpretations. Poor practices, such as “stoplights without standards” or “color math,” can undermine credibility.
+
+The adaptation phase integrates the commander’s decisions back into planning and execution. Updates may occur via fragmentary orders, targeting cycles, or operational planning teams (OPTs). This step ensures that new OE insights are shared across the force and that plans remain relevant.
+
+Ultimately, communication is iterative—commanders and staffs engage in dialogue to challenge assumptions, refine understanding, and maintain alignment between operations and strategic objectives, especially when supporting higher headquarters’ assessments.
+
+## What to Read
+
+[ATP 5-0.3](https://www.alssa.mil/mttps/assessment/)
+
+[SMART Objectives Paper by Doran](https://community.mis.temple.edu/mis0855002fall2015/files/2015/10/S.M.A.R.T-Way-Management-Review.pdf)
+
+[Objectives and Key Results Methodology](https://en.wikipedia.org/wiki/Objectives_and_key_results)
+
+[WOOP Methodology](https://woopmylife.org)
+
+[Process Tracing Overview](https://polisci.berkeley.edu/sites/default/files/people/u3827/Understanding%20Process%20Tracing.pdf)
