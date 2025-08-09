@@ -1,6 +1,6 @@
 # Strategic Military Effects
 
-A final theoretical piece of the military assessment puzzle focuses on strategic military effects. This is an important topic of not only debate of what effects are, but also the key difference of how a military effect requires a different mode of thought depending on the level of war.
+A final theoretical piece of the military assessment puzzle focuses on strategic military effects. Analyzing military effects is a crucial topic that encompasses not only the debate over what constitutes an effect but also the key difference in how a military effect necessitates a distinct mode of thought, varying by the level of war.
 
 ## Motivating Problem
 
@@ -8,7 +8,7 @@ How to think about and analyze strategic military effects.
 
 ## What We Will Learn
 
--   What military effects are.
+-   What are military effects?
 
 -   How strategic military effects are different.
 
@@ -16,7 +16,7 @@ How to think about and analyze strategic military effects.
 
 ## What are Military Effects?
 
-According to JP 3-0 [-@jp3-0], military effects are defined as:
+According to JP 3-0 [-@jp3-0], military effects are:
 
 1.  The physical or behavioral state of a system that results from an action, a set of actions, or another effect.
 
@@ -26,7 +26,7 @@ According to JP 3-0 [-@jp3-0], military effects are defined as:
 
 These effects can be direct, such as the destruction of an enemy capability, or indirect, such as influencing the will of a population. Effects can also be intended or unintended and may vary in scale, duration, and significance. Understanding military effects is critical for linking tactical actions to higher operational or strategic goals. At their core, effects represent a change in condition, behavior, or degree of freedom for an actor or system. This definition encompasses kinetic actions, like strikes, and non-kinetic actions, such as information operations or deterrent posturing. The comprehensive view ensures that planners consider both tangible and intangible results, enabling more effective integration of military activities with diplomatic, informational, and economic instruments of power in joint and combined operations.
 
-## What are Strategic Military Effects Different?
+## What are Strategic Military Effects and Why are They Different?
 
 Strategic military effects are the broad, enduring outcomes that connect military actions to national or alliance-level objectives. They often span across domains, geographic regions, and timeframes, involving complex, multi-factor relationships beyond simple linear cause-and-effect. Unlike operational or tactical effects, strategic effects require consideration of political, economic, social, and informational dynamics alongside military factors. For example, a military show of force may have the immediate effect of deterring adversary aggression, but its strategic effect could include strengthening regional alliances or altering global perceptions of resolve. Because these effects operate within a highly interconnected environment, they are influenced by feedback loops, cultural factors, and adaptive adversary behavior. Understanding strategic effects requires analysts to look beyond battlefield outcomes and assess how actions contribute to—or detract from—long-term strategic objectives. This broader perspective ensures that military planning supports national policy and accounts for second- and third-order consequences.
 
